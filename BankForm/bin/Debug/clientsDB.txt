@@ -1,0 +1,25 @@
+[
+  {
+    "Fio": "1",
+    "Login": "1",
+    "Credit": null,
+    "Deposit": null
+  },
+  {
+    "Fio": "2",
+    "Login": "2",
+    "Credit": null,
+    "Deposit": null
+  },
+  {
+    "Fio": "й",
+    "Login": "й",
+    "Credit": {
+      "FIO": "й",
+      "Login": "й",
+      "CurrentMoney": 0,
+      "MaxMoney": 50000
+    },
+    "Deposit": null
+  }
+]
