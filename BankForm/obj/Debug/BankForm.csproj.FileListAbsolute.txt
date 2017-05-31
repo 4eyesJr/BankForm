@@ -9,3 +9,6 @@ C:\Users\Дмитрий Владимирович\Documents\Visual Studio 2015\Pr
 C:\Users\Дмитрий Владимирович\Documents\Visual Studio 2015\Projects\BankForm\BankForm\obj\Debug\BankForm.pdb
 C:\Users\Дмитрий Владимирович\Documents\Visual Studio 2015\Projects\BankForm\BankForm\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Дмитрий Владимирович\Documents\Visual Studio 2015\Projects\BankForm\BankForm\bin\Debug\Newtonsoft.Json.xml
+D:\Lessons\TSPP\BankForm\BankForm\bin\Debug\BankForm.exe.config
+D:\Lessons\TSPP\BankForm\BankForm\obj\Debug\BankForm.exe
+D:\Lessons\TSPP\BankForm\BankForm\obj\Debug\BankForm.pdb
